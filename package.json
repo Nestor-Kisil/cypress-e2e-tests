@@ -1,0 +1,16 @@
+{
+	"name": "chater",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "cypress run",
+		"cypress:open": "cypress open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"cypress": "^12.0.0"
+	}
+}
